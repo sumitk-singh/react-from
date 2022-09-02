@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+}
+
+.user-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 15rem;
+
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  height: 1.8rem;
+  border-radius: 5px;
+}
